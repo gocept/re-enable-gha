@@ -1,0 +1,21 @@
+# Names of the repositories below the gocept organization those GitHub Actions
+# should be re-enabled.
+batou_scm
+gobre.recipe.template
+gocept.bbissues
+gocept.collmex
+gocept.filestore
+gocept.httpserverlayer
+gocept.jenkinsdsl
+gocept.jslint
+gocept.logging
+gocept.pagelet
+gocept.reference
+gocept.testing
+gocept.webtoken
+js.jquery_datatables_plugins
+js.jquery_tinyscrollbar
+js.smoke
+js.tableselect
+pytest-remove-stale-bytecode
+zconfig_watchedfile
