@@ -2,7 +2,6 @@
 # should be re-enabled.
 batou_scm
 gobre.recipe.template
-gocept.bbissues
 gocept.collmex
 gocept.filestore
 gocept.httpserverlayer
