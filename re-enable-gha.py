@@ -8,7 +8,6 @@ import sys
 org = 'gocept'
 base_url = f'https://github.com/{org}'
 base_path = pathlib.Path(__file__).parent
-types = ['buildout-recipe', 'c-code', 'pure-python', 'zope-product']
 
 
 def list_packages(path: pathlib.Path) -> list:
