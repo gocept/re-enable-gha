@@ -12,7 +12,6 @@ gocept.jasmine
 gocept.jenkinsdsl
 gocept.jslint
 gocept.logging
-gocept.loginuser
 gocept.month
 gocept.pagelet
 gocept.pseudonymize
