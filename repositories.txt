@@ -1,17 +1,26 @@
 # Names of the repositories below the gocept organization those GitHub Actions
 # should be re-enabled.
 batou_scm
+cihub
 gobre.recipe.template
 gocept.collmex
+gocept.country
 gocept.filestore
+gocept.gtimelog
 gocept.httpserverlayer
+gocept.jasmine
 gocept.jenkinsdsl
 gocept.jslint
 gocept.logging
+gocept.loginuser
+gocept.month
 gocept.pagelet
+gocept.pseudonymize
+gocept.recordserialize
 gocept.reference
 gocept.testing
 gocept.webtoken
+js.bootstrap4
 js.jquery_datatables_plugins
 js.jquery_tinyscrollbar
 js.smoke
