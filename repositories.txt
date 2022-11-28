@@ -20,7 +20,6 @@ gocept.reference
 gocept.testing
 gocept.webtoken
 js.bootstrap4
-js.jquery_datatables_plugins
 js.jquery_tinyscrollbar
 js.smoke
 js.tableselect
