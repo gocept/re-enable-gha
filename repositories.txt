@@ -14,9 +14,13 @@ gocept.jslint
 gocept.logging
 gocept.month
 gocept.pagelet
+gocept.patch_keyreferences
 gocept.pseudonymize
 gocept.recordserialize
 gocept.reference
+gocept.selenium
+gocept.template_rewrite
+gocept.template_rewrite
 gocept.testing
 gocept.webtoken
 js.bootstrap4
