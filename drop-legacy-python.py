@@ -115,6 +115,8 @@ with change_dir(path) as cwd_str:
     call(os.environ['EDITOR'], 'tox.ini')
     print('Remove `six` from the list of dependencies and other Py 2 things.')
     call(os.environ['EDITOR'], 'setup.py')
+    print("Add `python_requires='>=3.7',`")
+    call(os.environ['EDITOR'], 'setup.py')
     src = path.resolve() / 'src'
     call('find', src, '-name', '*.py', '-exec',
          shutil.which('pyupgrade'), '--py3-plus', '--py37-plus', '{}', ';')
